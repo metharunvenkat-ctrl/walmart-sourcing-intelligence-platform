@@ -16,3 +16,9 @@ The FastAPI backend exposes the following core REST endpoints:
 - **POST** `/api/chat/query`
   - Input: `{ "query": "What is the liability cap in the Apex Logistics proposal?", "session_id": "..." }`
   - Returns: Grounded answer text with source document citations and similarity scores.
+
+
+---
+
+## ⚠️ Disclaimer Notice
+This document and all associated dataset examples are synthetic mock artifacts engineered exclusively for independent portfolio demonstration purposes. This project is not affiliated with or endorsed by Walmart Inc.

@@ -46,3 +46,9 @@ docker exec -it rag-db-1 psql -U postgres -d rag_db
 # Count indexed document chunks
 SELECT COUNT(*) FROM document_chunks;
 ```
+
+
+---
+
+## ⚠️ Disclaimer Notice
+This document and all associated dataset examples are synthetic mock artifacts engineered exclusively for independent portfolio demonstration purposes. This project is not affiliated with or endorsed by Walmart Inc.

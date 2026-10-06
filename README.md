@@ -13,6 +13,18 @@ An enterprise-grade **Retrieval-Augmented Generation (RAG)** platform designed s
 
 ---
 
+## ⚠️ Disclaimer & Confidentiality Notice
+
+> [!IMPORTANT]
+> **Independent Portfolio Project**: This repository is an independent technical portfolio demonstration project. It is **not** an officially sponsored, endorsed, or affiliated product of Walmart Inc., its subsidiaries, or any named vendor.
+> 
+> **100% Synthetic Mock Data**: All contract documents, vendor proposals (e.g., Apex Sportswear Global Ltd.), Service Level Agreements (SLAs), pricing sheets, and evaluation outputs contained within this repository are **entirely synthetic mock data** engineered solely for technical demonstration and portfolio evaluation purposes.
+> 
+> **Zero Proprietary Data**: This repository contains **no proprietary Walmart Master Sourcing Agreements (MSAs)**, actual supplier pricing, trade secrets, confidential business data, or non-public internal information of any kind.
+
+
+---
+
 ## 🌟 Key Capabilities
 
 - **Layout-Aware Contract Parsing**: Utilizes **IBM Docling (`DocumentConverter`)** to parse incoming PDFs, Word documents (`.docx`), and HTML contracts into structural Markdown trees while preserving section headings, table boundaries, and page numbers.

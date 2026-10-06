@@ -51,3 +51,9 @@ This document details the architectural principles, component interactions, and 
 - **Low Temperature Decoding**: Gap analysis runs at $T=0.2$ to enforce deterministic, non-creative factual extraction.
 - **Dual-Anchor Citations**: Prompts require explicit file names and section titles for all identified contract deviations.
 - **Pydantic Validation**: LLM JSON outputs are parsed directly into Pydantic models. Any schema mismatch triggers an automated retry.
+
+
+---
+
+## ⚠️ Disclaimer Notice
+This document and all associated dataset examples are synthetic mock artifacts engineered exclusively for independent portfolio demonstration purposes. This project is not affiliated with or endorsed by Walmart Inc.
