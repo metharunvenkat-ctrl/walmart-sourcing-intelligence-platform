@@ -166,10 +166,14 @@ Displays the weighted contract compatibility score (81.5/100 PTS) alongside risk
 
 ![Tier 1 Scorecard & Tier 2 Priority Battlecard](docs/assets/dashboard_tier1_tier2.png)
 
-### 2. Section-Wise Analysis (Tier 3)
-Section accordions collapsed by default (`open = false`), showing status count pills (`🟢 Compliant`, `🟡 Deviation`, `🔴 Gap`) for each section (`SEC-A` through `SEC-F`).
+### 2. Section-Wise Analysis & Clause Details (Tier 3)
+Section accordions default to collapsed (`open = false`) showing summary status count pills (`🟢 Compliant`, `🟡 Deviation`, `🔴 Gap`) across section categories (`SEC-A` through `SEC-F`).
 
 ![Tier 3 Section-Wise Analysis Accordions](docs/assets/dashboard_tier3_sections.png)
+
+Expanding any section reveals clause-by-clause evaluation cards (`SEC-A.1`, `SEC-A.2`...), featuring statement-first sourcing insights, quantitative variance deltas vs. category best-in-class, and dual-anchor precedent drawers.
+
+![Tier 3 Expanded Clause Detail View](docs/assets/dashboard_tier3_expanded_clause.png)
 
 ### 3. Supplier Counter-Offer Letter Generation
 Auto-generates a formal counter-proposal letter ready to copy and send to vendor representatives.
