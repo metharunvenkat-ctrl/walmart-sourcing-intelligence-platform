@@ -154,6 +154,31 @@ docker exec -it rag-db-1 psql -U postgres -d rag_db -c "SELECT chunk_id, chunk_t
 
 ---
 
+
+---
+
+## 📊 Platform Output & UI Preview
+
+Here is a visual walkthrough of the platform output generated during a vendor contract comparison and gap analysis:
+
+### 1. Executive Scorecard (Tier 1) & Priority Battlecard (Tier 2)
+Displays the weighted contract compatibility score (81.5/100 PTS) alongside risk callouts, followed by ranked priority negotiation items with collapsible citation drawers.
+
+![Tier 1 Scorecard & Tier 2 Priority Battlecard](docs/assets/dashboard_tier1_tier2.png)
+
+### 2. Section-Wise Analysis (Tier 3)
+Section accordions collapsed by default (`open = false`), showing status count pills (`🟢 Compliant`, `🟡 Deviation`, `🔴 Gap`) for each section (`SEC-A` through `SEC-F`).
+
+![Tier 3 Section-Wise Analysis Accordions](docs/assets/dashboard_tier3_sections.png)
+
+### 3. Supplier Counter-Offer Letter Generation
+Auto-generates a formal counter-proposal letter ready to copy and send to vendor representatives.
+
+![Supplier Counter-Offer Letter Output](docs/assets/counter_offer_letter.png)
+
+
+---
+
 ## 📄 Documentation & Reports
 
 Exhaustive technical PDF and Markdown documentation files are located in the `docs/` folder:
@@ -163,6 +188,3 @@ Exhaustive technical PDF and Markdown documentation files are located in the `do
 - 🛠️ [Setup & Operations](docs/SETUP.md)
 
 ---
-
-## 🛡️ License & Confidentiality
-CONFIDENTIAL — FOR WALMART SOURCING & PROCUREMENT TEAM USE ONLY.
