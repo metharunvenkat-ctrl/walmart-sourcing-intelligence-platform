@@ -92,9 +92,9 @@ walmart-project/
 │   ├── ARCHITECTURE.md           # Deep dive system architecture & data flows
 │   ├── SETUP.md                  # Detailed environment setup & troubleshooting
 │   ├── API_SPECIFICATION.md      # REST API endpoints & request/response schemas
-│   ├── Walmart_Project_Summary.pdf# Main Executive Summary PDF Report
+│   ├── Walmart_Sourcing_Intelligence_Platform_Master_Report.pdf# Main Executive Summary PDF Report
 │   └── reports/                  # Generated PDF reports & client deliverables
-│       ├── Walmart_Project_Summary.pdf
+│       ├── Walmart_Sourcing_Intelligence_Platform_Master_Report.pdf
 │       ├── Strategic_Sourcing_Intelligence_Platform_Documentation.pdf
 │       └── Client_Handoff_Report.pdf
 │
@@ -198,7 +198,7 @@ Auto-generates a formal counter-proposal letter ready to copy and send to vendor
 ## 📄 Documentation & Reports
 
 Exhaustive technical PDF and Markdown documentation files are located in the `docs/` folder:
-- 📄 [Walmart Project Summary PDF](docs/reports/Walmart_Project_Summary.pdf)
+- 📄 [Walmart Project Summary PDF](docs/reports/Walmart_Sourcing_Intelligence_Platform_Master_Report.pdf)
 - 🏗️ [Architecture Overview](docs/ARCHITECTURE.md)
 - 🔌 [API Specification](docs/API_SPECIFICATION.md)
 - 🛠️ [Setup & Operations](docs/SETUP.md)
