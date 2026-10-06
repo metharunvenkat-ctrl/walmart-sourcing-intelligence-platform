@@ -1,0 +1,36 @@
+{
+  "files": {
+    "ce5a5a4f-0a9e-4a1b-b5c8-7bb1de3e10f7": {
+      "id": "ce5a5a4f-0a9e-4a1b-b5c8-7bb1de3e10f7",
+      "filename": "WOMENS-TOPWEAR-2025-002.pdf",
+      "uploadedAt": "2026-10-05T16:17:57.547329+00:00",
+      "sizeBytes": 102228,
+      "status": "ready",
+      "path": "/app/data/uploads/kb/ce5a5a4f-0a9e-4a1b-b5c8-7bb1de3e10f7_WOMENS-TOPWEAR-2025-002.pdf"
+    },
+    "f30a6786-371b-4f3c-9248-2d03a85539c3": {
+      "id": "f30a6786-371b-4f3c-9248-2d03a85539c3",
+      "filename": "UNISEX-FOOTWEAR-2025-003.pdf",
+      "uploadedAt": "2026-10-05T16:17:57.563139+00:00",
+      "sizeBytes": 101718,
+      "status": "ready",
+      "path": "/app/data/uploads/kb/f30a6786-371b-4f3c-9248-2d03a85539c3_UNISEX-FOOTWEAR-2025-003.pdf"
+    },
+    "34fa4931-f996-4fb5-a386-f667cec79cb5": {
+      "id": "34fa4931-f996-4fb5-a386-f667cec79cb5",
+      "filename": "MENS-SPORTS_ACTIVEWEAR-2025-004.pdf",
+      "uploadedAt": "2026-10-05T16:17:57.577226+00:00",
+      "sizeBytes": 110411,
+      "status": "ready",
+      "path": "/app/data/uploads/kb/34fa4931-f996-4fb5-a386-f667cec79cb5_MENS-SPORTS_ACTIVEWEAR-2025-004.pdf"
+    },
+    "e6128683-ce45-4faf-b7f5-d7f764922bd3": {
+      "id": "e6128683-ce45-4faf-b7f5-d7f764922bd3",
+      "filename": "Mens-Bottomwear-2025-001.pdf",
+      "uploadedAt": "2026-10-05T16:17:57.588783+00:00",
+      "sizeBytes": 120003,
+      "status": "ready",
+      "path": "/app/data/uploads/kb/e6128683-ce45-4faf-b7f5-d7f764922bd3_Mens-Bottomwear-2025-001.pdf"
+    }
+  }
+}
